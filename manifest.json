@@ -1,0 +1,12 @@
+{
+  "$schema": "https://raw.githubusercontent.com/bsmg/BSIPA-MetadataFileSchema/master/Schema.json",
+  "id": "GladdePaling",
+  "name": "GladdePaling",
+  "author": "OrdinaryTable",
+  "version": "1.0.0",
+  "description": "Allows you to play nothing but Gladde Paling maps",
+  "gameVersion": "1.26.0",
+  "dependsOn": {
+    "BSIPA": "^4.2.0"
+  }
+}
